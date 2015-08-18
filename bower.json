@@ -1,0 +1,17 @@
+{
+  "name": "SVGAnimate-VivusJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/madole/SVGAnimate-VivusJS",
+  "authors": [
+    "Andrew McDowell <andrew.mcdowell@mi9.com.au>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
